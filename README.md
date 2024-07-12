@@ -13,7 +13,7 @@
 ## Prazo de entrega
 Quanto mais cedo você enviar, mais tempo teremos para revisar seu teste com atenção. Sabemos que a rotina é agitada, por isso, faça no seu ritmo. Não desista! Envie o que conseguir.
 ## Stack
-- Você irá desenvolver um aplicativo mobile utilizando Typescript, React Native, Expo e Nativewind. Para o back-end utilize PostgreSQL e o ORM Prisma.
+- Você irá desenvolver um aplicativo mobile utilizando Typescript, React Native, Expo e Nativewind. Para o back-end utilize PostgreSQL e o ORM Prisma (ou o que preferir).
 - Para roteamento será utilizado React Navigation.
 - Para as APIs será utilizado Express.
 - Para testes unitários será utilizado Jest.
